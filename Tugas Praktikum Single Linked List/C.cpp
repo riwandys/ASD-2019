@@ -2,26 +2,12 @@
 
 infotype max (List L){
 	/*	Mengirimkan nilai Info(P) yang maksimum */
-	int max = -Infinity;
-	address P = First(L);
-	while(...(22)...){
-		if(max<Info(P))
-			...(23)...
-		P=Next(P);
-	}
-	return max;
+	
 }
 
 infotype min (List L){
 	/*	Mengirimkan nilai Info(P) yang minimum */
-	int min = Infinity;
-	address P = ...(25)...
-	while(P!=Nil){
-		if(min>Info(P))
-			...(26)...
-		P=Next(P);
-	}
-	return min;
+	
 }
 
 int main(){
