@@ -2,12 +2,12 @@
 
 infotype max (List L){
 	/*	Mengirimkan nilai Info(P) yang maksimum */
-	
+
 }
 
 infotype min (List L){
 	/*	Mengirimkan nilai Info(P) yang minimum */
-	
+
 }
 
 int main(){
